@@ -1,0 +1,12 @@
+{
+  "name": "jwt-example",
+  "version": "0.0.1",
+  "description": "JWT to obtain secured resources",
+  "main": "server.js",
+  "repository": "",
+  "author": "Dani <jdaniel.saed@gmail.com>",
+  "dependencies": {
+    "express": "^4.12.3",
+    "faker": "^2.1.2"
+  }
+}
